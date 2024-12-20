@@ -1,0 +1,307 @@
+2024-12-10 08:26:18,POST,Zaki.,Created a new player record.
+2024-12-10 08:28:49,POST,Zaki.,Invalid payload. Check your JSON structure.
+2024-12-10 08:42:01,POST,Zaki.,Created a new team record with members.
+2024-12-10 09:32:40,POST,Zaki.,Created a new team record with members.
+2024-12-10 09:36:14,POST,Markuz,Created a new team record with members.
+2024-12-10 09:38:38,POST,Markuz,Created a new player record.
+2024-12-10 09:50:05,GET,Markuz,Attempting to retrieve logs for date: 
+2024-12-10 09:50:05,GET,Markuz,Error retrieving logs for date:  - SplFileObject::__construct(./logs/.log): Failed to open stream: No such file or directory
+2024-12-10 09:50:54,GET,Markuz,Attempting to retrieve logs for date: 
+2024-12-10 09:50:54,GET,Markuz,Error retrieving logs for date:  - SplFileObject::__construct(C:/xampp/htdocs/aa/tma/logs/.log): Failed to open stream: No such file or directory
+2024-12-10 09:50:57,GET,Markuz,Attempting to retrieve logs for date: 
+2024-12-10 09:50:57,GET,Markuz,Error retrieving logs for date:  - SplFileObject::__construct(C:/xampp/htdocs/aa/tma/logs/.log): Failed to open stream: No such file or directory
+2024-12-10 09:50:58,GET,Markuz,Attempting to retrieve logs for date: 
+2024-12-10 09:50:58,GET,Markuz,Error retrieving logs for date:  - SplFileObject::__construct(C:/xampp/htdocs/aa/tma/logs/.log): Failed to open stream: No such file or directory
+2024-12-10 09:50:58,GET,Markuz,Attempting to retrieve logs for date: 
+2024-12-10 09:50:58,GET,Markuz,Error retrieving logs for date:  - SplFileObject::__construct(C:/xampp/htdocs/aa/tma/logs/.log): Failed to open stream: No such file or directory
+2024-12-10 09:50:58,GET,Markuz,Attempting to retrieve logs for date: 
+2024-12-10 09:50:58,GET,Markuz,Error retrieving logs for date:  - SplFileObject::__construct(C:/xampp/htdocs/aa/tma/logs/.log): Failed to open stream: No such file or directory
+2024-12-10 09:50:58,GET,Markuz,Attempting to retrieve logs for date: 
+2024-12-10 09:50:58,GET,Markuz,Error retrieving logs for date:  - SplFileObject::__construct(C:/xampp/htdocs/aa/tma/logs/.log): Failed to open stream: No such file or directory
+2024-12-10 09:50:58,GET,Markuz,Attempting to retrieve logs for date: 
+2024-12-10 09:50:58,GET,Markuz,Error retrieving logs for date:  - SplFileObject::__construct(C:/xampp/htdocs/aa/tma/logs/.log): Failed to open stream: No such file or directory
+2024-12-10 09:50:58,GET,Markuz,Attempting to retrieve logs for date: 
+2024-12-10 09:50:58,GET,Markuz,Error retrieving logs for date:  - SplFileObject::__construct(C:/xampp/htdocs/aa/tma/logs/.log): Failed to open stream: No such file or directory
+2024-12-10 09:50:59,GET,Markuz,Attempting to retrieve logs for date: 
+2024-12-10 09:50:59,GET,Markuz,Error retrieving logs for date:  - SplFileObject::__construct(C:/xampp/htdocs/aa/tma/logs/.log): Failed to open stream: No such file or directory
+2024-12-10 09:50:59,GET,Markuz,Attempting to retrieve logs for date: 
+2024-12-10 09:50:59,GET,Markuz,Error retrieving logs for date:  - SplFileObject::__construct(C:/xampp/htdocs/aa/tma/logs/.log): Failed to open stream: No such file or directory
+2024-12-10 09:52:20,GET,Markuz,Attempting to retrieve logs for date: 
+2024-12-10 09:52:20,GET,Markuz,Error retrieving logs for date:  - SplFileObject::__construct(./logs/.log): Failed to open stream: No such file or directory
+2024-12-10 09:52:22,GET,Markuz,Attempting to retrieve logs for date: 
+2024-12-10 09:52:22,GET,Markuz,Error retrieving logs for date:  - SplFileObject::__construct(./logs/.log): Failed to open stream: No such file or directory
+2024-12-10 09:54:39,GET,Markuz,Attempting to retrieve logs for date: 
+2024-12-10 09:54:39,GET,Markuz,Error retrieving logs for date:  - Log file not found.
+2024-12-10 09:55:04,GET,Markuz,Attempting to retrieve logs for date: 
+2024-12-10 09:55:04,GET,Markuz,Error retrieving logs for date:  - SplFileObject::__construct(C:/xampp/htdocs/aa/tma/logs/.log): Failed to open stream: No such file or directory
+2024-12-10 09:56:24,GET,Markuz,Attempting to retrieve logs for date: 
+2024-12-10 09:56:24,GET,Markuz,Error retrieving logs for date:  - SplFileObject::__construct(C:/xampp/htdocs/aa/tma/logs/.log): Failed to open stream: No such file or directory
+2024-12-10 09:56:57,GET,Markuz,Attempting to retrieve logs for date: 
+2024-12-10 09:56:57,GET,Markuz,Error retrieving logs for date:  - SplFileObject::__construct(C:/xampp/htdocs/aa/tma/logs/.log): Failed to open stream: No such file or directory
+2024-12-10 09:57:00,GET,Markuz,Attempting to retrieve logs for date: 
+2024-12-10 09:57:00,GET,Markuz,Error retrieving logs for date:  - SplFileObject::__construct(C:/xampp/htdocs/aa/tma/logs/.log): Failed to open stream: No such file or directory
+2024-12-10 09:57:02,GET,Markuz,Attempting to retrieve logs for date: 
+2024-12-10 09:57:02,GET,Markuz,Error retrieving logs for date:  - SplFileObject::__construct(C:/xampp/htdocs/aa/tma/logs/.log): Failed to open stream: No such file or directory
+2024-12-10 09:57:03,GET,Markuz,Attempting to retrieve logs for date: 
+2024-12-10 09:57:03,GET,Markuz,Error retrieving logs for date:  - SplFileObject::__construct(C:/xampp/htdocs/aa/tma/logs/.log): Failed to open stream: No such file or directory
+2024-12-10 10:01:41,GET,Markuz,Attempting to retrieve logs for date: 
+2024-12-10 10:01:41,GET,Markuz,Error retrieving logs for date:  - Log file not found for date: 
+2024-12-10 10:02:24,GET,Markuz,Attempting to retrieve logs for date: 
+2024-12-10 10:02:24,GET,Markuz,Error retrieving logs for date:  - SplFileObject::__construct(2024-12-10.log): Failed to open stream: No such file or directory
+2024-12-10 10:03:33,GET,Markuz,Attempting to retrieve logs for date: 
+2024-12-10 10:03:33,GET,Markuz,Error retrieving logs for date:  - SplFileObject::__construct(C:\xampp\htdocs\aa\tma\logs2024-12-10.log): Failed to open stream: No such file or directory
+2024-12-10 10:03:48,GET,Markuz,Attempting to retrieve logs for date: 
+2024-12-10 10:03:48,GET,Markuz,Error retrieving logs for date:  - SplFileObject::__construct(C:/xampp/htdocs/aa/tma/logs2024-12-10.log): Failed to open stream: No such file or directory
+2024-12-10 10:04:05,GET,Markuz,Attempting to retrieve logs for date: 
+2024-12-10 10:04:05,GET,Markuz,Successfully retrieved logs for date: 
+2024-12-10 10:10:19,PATCH,Markuz,Attempting to update player with ID: 35
+2024-12-10 10:10:19,PATCH,Markuz,Successfully updated player with ID: 35
+2024-12-10 10:19:05,POST,Markuz,Invalid payload. Check your JSON structure.
+2024-12-10 10:19:14,POST,Markuz,Created a new team record with members.
+2024-12-10 10:20:05,PATCH,Markuz,Attempting to update team with ID: 24
+2024-12-10 10:20:05,PATCH,Markuz,Successfully updated team with ID: 24
+2024-12-10 10:21:44,PATCH,Markuz,Attempting to update team with ID: 24
+2024-12-10 10:21:44,PATCH,Markuz,Successfully updated team with ID: 24
+2024-12-10 10:26:02,GET,Markuz,Retrieved team data for team ID: 24
+2024-12-10 10:26:16,GET,Markuz,Retrieved teams data
+2024-12-10 10:26:41,DELETE,Markuz,Team with ID 1 marked as deleted.
+2024-12-10 10:26:54,GET,Markuz,Retrieved teams data
+2024-12-10 10:47:06,PATCH,Markuz,Attempting to update player with ID: 1
+2024-12-10 10:47:06,PATCH,Markuz,Error updating player with ID: 1 - SQLSTATE[HY093]: Invalid parameter number
+2024-12-10 10:47:09,PATCH,Markuz,Attempting to update player with ID: 1
+2024-12-10 10:47:09,PATCH,Markuz,Error updating player with ID: 1 - SQLSTATE[HY093]: Invalid parameter number
+2024-12-10 10:47:10,PATCH,Markuz,Attempting to update player with ID: 1
+2024-12-10 10:47:10,PATCH,Markuz,Error updating player with ID: 1 - SQLSTATE[HY093]: Invalid parameter number
+2024-12-10 10:47:10,PATCH,Markuz,Attempting to update player with ID: 1
+2024-12-10 10:47:10,PATCH,Markuz,Error updating player with ID: 1 - SQLSTATE[HY093]: Invalid parameter number
+2024-12-10 10:48:18,PATCH,Markuz,Attempting to update player with ID: 1
+2024-12-10 10:48:18,PATCH,Markuz,Successfully updated player with ID: 1
+2024-12-10 10:48:52,PATCH,Markuz,Attempting to soft delete player with ID: 1
+2024-12-10 10:48:52,PATCH,Markuz,Successfully soft deleted player with ID: 1
+2024-12-10 10:49:00,PATCH,Markuz,Attempting to permanently destroy player with ID: 1
+2024-12-10 10:49:00,PATCH,Markuz,Successfully destroyed player with ID: 1
+2024-12-10 10:49:30,POST,Markuz,Created a new player record.
+2024-12-10 10:49:55,DELETE,Markuz,Player with ID 36 marked as deleted.
+2024-12-10 10:50:15,PATCH,Markuz,Attempting to soft delete player with ID: 36
+2024-12-10 10:50:15,PATCH,Markuz,Successfully soft deleted player with ID: 36
+2024-12-10 11:01:51,POST,Markuz,Invalid payload. Check your JSON structure.
+2024-12-10 11:02:48,POST,Markuz,Created a new team record with members.
+2024-12-10 11:02:54,GET,Markuz,Retrieved teams data
+2024-12-10 11:03:01,GET,Markuz,Retrieved team data for team ID: 25
+2024-12-10 11:03:08,DELETE,Markuz,Team with ID 25 marked as deleted.
+2024-12-10 11:03:37,PATCH,Markuz,Attempting to update deletion status of team with ID: 25 to isdeleted = 0
+2024-12-10 11:03:37,PATCH,Markuz,Successfully updated deletion status of team with ID: 25
+2024-12-10 11:03:50,GET,Markuz,Retrieved team data for team ID: 25
+2024-12-10 11:06:36,PATCH,Markuz,Attempting to update deletion status of player with ID: 36 to isdeleted = 0
+2024-12-10 11:06:36,PATCH,Markuz,Successfully updated deletion status of player with ID: 36
+2024-12-10 12:29:10,PATCH,Markuz,Attempting to update player with ID: 2
+2024-12-10 12:29:10,PATCH,Markuz,Successfully updated player with ID: 2
+2024-12-10 17:18:06,PATCH,Markuz,Attempting to update player with ID: 2
+2024-12-10 17:18:06,PATCH,Markuz,Successfully updated player with ID: 2
+2024-12-10 17:18:15,PATCH,Markuz,Attempting to update player with ID: 2
+2024-12-10 17:18:15,PATCH,Markuz,Error updating player with ID: 2 - SQLSTATE[HY093]: Invalid parameter number
+2024-12-10 17:18:38,PATCH,Markuz,Attempting to update player with ID: 2
+2024-12-10 17:18:38,PATCH,Markuz,Error updating player with ID: 2 - SQLSTATE[HY093]: Invalid parameter number
+2024-12-10 17:18:41,PATCH,Markuz,Attempting to update player with ID: 2
+2024-12-10 17:18:41,PATCH,Markuz,Error updating player with ID: 2 - SQLSTATE[HY093]: Invalid parameter number
+2024-12-10 17:18:41,PATCH,Markuz,Attempting to update player with ID: 2
+2024-12-10 17:18:41,PATCH,Markuz,Error updating player with ID: 2 - SQLSTATE[HY093]: Invalid parameter number
+2024-12-10 17:18:41,PATCH,Markuz,Attempting to update player with ID: 2
+2024-12-10 17:18:41,PATCH,Markuz,Error updating player with ID: 2 - SQLSTATE[HY093]: Invalid parameter number
+2024-12-10 17:18:41,PATCH,Markuz,Attempting to update player with ID: 2
+2024-12-10 17:18:41,PATCH,Markuz,Error updating player with ID: 2 - SQLSTATE[HY093]: Invalid parameter number
+2024-12-10 17:18:42,PATCH,Markuz,Attempting to update player with ID: 2
+2024-12-10 17:18:42,PATCH,Markuz,Error updating player with ID: 2 - SQLSTATE[HY093]: Invalid parameter number
+2024-12-10 17:21:19,PATCH,Markuz,Attempting to update player with ID: 2
+2024-12-10 17:21:19,PATCH,Markuz,Error updating player with ID: 2 - SQLSTATE[HY093]: Invalid parameter number
+2024-12-10 17:21:20,PATCH,Markuz,Attempting to update player with ID: 2
+2024-12-10 17:21:20,PATCH,Markuz,Error updating player with ID: 2 - SQLSTATE[HY093]: Invalid parameter number
+2024-12-10 17:21:20,PATCH,Markuz,Attempting to update player with ID: 2
+2024-12-10 17:21:20,PATCH,Markuz,Error updating player with ID: 2 - SQLSTATE[HY093]: Invalid parameter number
+2024-12-10 17:21:21,PATCH,Markuz,Attempting to update player with ID: 2
+2024-12-10 17:21:21,PATCH,Markuz,Error updating player with ID: 2 - SQLSTATE[HY093]: Invalid parameter number
+2024-12-10 17:21:21,PATCH,Markuz,Attempting to update player with ID: 2
+2024-12-10 17:21:21,PATCH,Markuz,Error updating player with ID: 2 - SQLSTATE[HY093]: Invalid parameter number
+2024-12-10 17:21:21,PATCH,Markuz,Attempting to update player with ID: 2
+2024-12-10 17:21:21,PATCH,Markuz,Error updating player with ID: 2 - SQLSTATE[HY093]: Invalid parameter number
+2024-12-10 17:21:21,PATCH,Markuz,Attempting to update player with ID: 2
+2024-12-10 17:21:21,PATCH,Markuz,Error updating player with ID: 2 - SQLSTATE[HY093]: Invalid parameter number
+2024-12-10 17:21:43,PATCH,Markuz,Attempting to update player with ID: 2
+2024-12-10 17:21:43,PATCH,Markuz,Error updating player with ID: 2 - SQLSTATE[HY093]: Invalid parameter number
+2024-12-10 17:21:43,PATCH,Markuz,Attempting to update player with ID: 2
+2024-12-10 17:21:43,PATCH,Markuz,Error updating player with ID: 2 - SQLSTATE[HY093]: Invalid parameter number
+2024-12-10 17:21:43,PATCH,Markuz,Attempting to update player with ID: 2
+2024-12-10 17:21:43,PATCH,Markuz,Error updating player with ID: 2 - SQLSTATE[HY093]: Invalid parameter number
+2024-12-10 17:21:43,PATCH,Markuz,Attempting to update player with ID: 2
+2024-12-10 17:21:43,PATCH,Markuz,Error updating player with ID: 2 - SQLSTATE[HY093]: Invalid parameter number
+2024-12-10 17:21:43,PATCH,Markuz,Attempting to update player with ID: 2
+2024-12-10 17:21:43,PATCH,Markuz,Error updating player with ID: 2 - SQLSTATE[HY093]: Invalid parameter number
+2024-12-10 17:22:42,PATCH,Markuz,Attempting to update player with ID: 2
+2024-12-10 17:22:42,PATCH,Markuz,Error updating player with ID: 2 - SQLSTATE[HY093]: Invalid parameter number
+2024-12-10 17:24:09,PATCH,Markuz,Attempting to update player with ID: 2
+2024-12-10 17:24:09,PATCH,Markuz,Error updating player with ID: 2 - SQLSTATE[HY093]: Invalid parameter number
+2024-12-10 17:24:09,PATCH,Markuz,Attempting to update player with ID: 2
+2024-12-10 17:24:09,PATCH,Markuz,Error updating player with ID: 2 - SQLSTATE[HY093]: Invalid parameter number
+2024-12-10 17:24:09,PATCH,Markuz,Attempting to update player with ID: 2
+2024-12-10 17:24:09,PATCH,Markuz,Error updating player with ID: 2 - SQLSTATE[HY093]: Invalid parameter number
+2024-12-10 17:24:09,PATCH,Markuz,Attempting to update player with ID: 2
+2024-12-10 17:24:09,PATCH,Markuz,Error updating player with ID: 2 - SQLSTATE[HY093]: Invalid parameter number
+2024-12-10 17:24:21,PATCH,Markuz,Attempting to update player with ID: 2
+2024-12-10 17:24:21,PATCH,Markuz,Error updating player with ID: 2 - SQLSTATE[HY093]: Invalid parameter number
+2024-12-10 17:24:25,PATCH,Markuz,Attempting to update player with ID: 2
+2024-12-10 17:24:25,PATCH,Markuz,Error updating player with ID: 2 - SQLSTATE[HY093]: Invalid parameter number
+2024-12-10 17:24:25,PATCH,Markuz,Attempting to update player with ID: 2
+2024-12-10 17:24:25,PATCH,Markuz,Error updating player with ID: 2 - SQLSTATE[HY093]: Invalid parameter number
+2024-12-10 17:24:25,PATCH,Markuz,Attempting to update player with ID: 2
+2024-12-10 17:24:25,PATCH,Markuz,Error updating player with ID: 2 - SQLSTATE[HY093]: Invalid parameter number
+2024-12-10 17:24:25,PATCH,Markuz,Attempting to update player with ID: 2
+2024-12-10 17:24:25,PATCH,Markuz,Error updating player with ID: 2 - SQLSTATE[HY093]: Invalid parameter number
+2024-12-10 17:24:26,PATCH,Markuz,Attempting to update player with ID: 2
+2024-12-10 17:24:26,PATCH,Markuz,Error updating player with ID: 2 - SQLSTATE[HY093]: Invalid parameter number
+2024-12-10 17:24:26,PATCH,Markuz,Attempting to update player with ID: 2
+2024-12-10 17:24:26,PATCH,Markuz,Error updating player with ID: 2 - SQLSTATE[HY093]: Invalid parameter number
+2024-12-10 17:24:26,PATCH,Markuz,Attempting to update player with ID: 2
+2024-12-10 17:24:26,PATCH,Markuz,Error updating player with ID: 2 - SQLSTATE[HY093]: Invalid parameter number
+2024-12-10 17:24:26,PATCH,Markuz,Attempting to update player with ID: 2
+2024-12-10 17:24:26,PATCH,Markuz,Error updating player with ID: 2 - SQLSTATE[HY093]: Invalid parameter number
+2024-12-10 17:24:26,PATCH,Markuz,Attempting to update player with ID: 2
+2024-12-10 17:24:26,PATCH,Markuz,Error updating player with ID: 2 - SQLSTATE[HY093]: Invalid parameter number
+2024-12-10 17:26:05,PATCH,Markuz,Attempting to update player with ID: 2
+2024-12-10 17:26:05,PATCH,Markuz,Error updating player with ID: 2 - SQLSTATE[HY093]: Invalid parameter number
+2024-12-10 17:26:06,PATCH,Markuz,Attempting to update player with ID: 2
+2024-12-10 17:26:06,PATCH,Markuz,Error updating player with ID: 2 - SQLSTATE[HY093]: Invalid parameter number
+2024-12-10 17:26:06,PATCH,Markuz,Attempting to update player with ID: 2
+2024-12-10 17:26:06,PATCH,Markuz,Error updating player with ID: 2 - SQLSTATE[HY093]: Invalid parameter number
+2024-12-10 17:26:06,PATCH,Markuz,Attempting to update player with ID: 2
+2024-12-10 17:26:06,PATCH,Markuz,Error updating player with ID: 2 - SQLSTATE[HY093]: Invalid parameter number
+2024-12-10 17:26:06,PATCH,Markuz,Attempting to update player with ID: 2
+2024-12-10 17:26:06,PATCH,Markuz,Error updating player with ID: 2 - SQLSTATE[HY093]: Invalid parameter number
+2024-12-10 17:26:09,PATCH,Markuz,Attempting to update player with ID: 2
+2024-12-10 17:26:09,PATCH,Markuz,Error updating player with ID: 2 - SQLSTATE[HY093]: Invalid parameter number
+2024-12-10 17:26:09,PATCH,Markuz,Attempting to update player with ID: 2
+2024-12-10 17:26:09,PATCH,Markuz,Error updating player with ID: 2 - SQLSTATE[HY093]: Invalid parameter number
+2024-12-10 17:26:09,PATCH,Markuz,Attempting to update player with ID: 2
+2024-12-10 17:26:09,PATCH,Markuz,Error updating player with ID: 2 - SQLSTATE[HY093]: Invalid parameter number
+2024-12-10 17:26:10,PATCH,Markuz,Attempting to update player with ID: 2
+2024-12-10 17:26:10,PATCH,Markuz,Error updating player with ID: 2 - SQLSTATE[HY093]: Invalid parameter number
+2024-12-10 17:26:10,PATCH,Markuz,Attempting to update player with ID: 2
+2024-12-10 17:26:10,PATCH,Markuz,Error updating player with ID: 2 - SQLSTATE[HY093]: Invalid parameter number
+2024-12-10 17:26:10,PATCH,Markuz,Attempting to update player with ID: 2
+2024-12-10 17:26:10,PATCH,Markuz,Error updating player with ID: 2 - SQLSTATE[HY093]: Invalid parameter number
+2024-12-10 17:26:10,PATCH,Markuz,Attempting to update player with ID: 2
+2024-12-10 17:26:10,PATCH,Markuz,Error updating player with ID: 2 - SQLSTATE[HY093]: Invalid parameter number
+2024-12-10 17:26:10,PATCH,Markuz,Attempting to update player with ID: 2
+2024-12-10 17:26:10,PATCH,Markuz,Error updating player with ID: 2 - SQLSTATE[HY093]: Invalid parameter number
+2024-12-10 17:26:10,PATCH,Markuz,Attempting to update player with ID: 2
+2024-12-10 17:26:10,PATCH,Markuz,Error updating player with ID: 2 - SQLSTATE[HY093]: Invalid parameter number
+2024-12-10 17:26:11,PATCH,Markuz,Attempting to update player with ID: 2
+2024-12-10 17:26:11,PATCH,Markuz,Error updating player with ID: 2 - SQLSTATE[HY093]: Invalid parameter number
+2024-12-10 17:26:11,PATCH,Markuz,Attempting to update player with ID: 2
+2024-12-10 17:26:11,PATCH,Markuz,Error updating player with ID: 2 - SQLSTATE[HY093]: Invalid parameter number
+2024-12-10 17:26:11,PATCH,Markuz,Attempting to update player with ID: 2
+2024-12-10 17:26:11,PATCH,Markuz,Error updating player with ID: 2 - SQLSTATE[HY093]: Invalid parameter number
+2024-12-10 17:26:11,PATCH,Markuz,Attempting to update player with ID: 2
+2024-12-10 17:26:11,PATCH,Markuz,Error updating player with ID: 2 - SQLSTATE[HY093]: Invalid parameter number
+2024-12-10 17:26:11,PATCH,Markuz,Attempting to update player with ID: 2
+2024-12-10 17:26:11,PATCH,Markuz,Error updating player with ID: 2 - SQLSTATE[HY093]: Invalid parameter number
+2024-12-10 17:26:11,PATCH,Markuz,Attempting to update player with ID: 2
+2024-12-10 17:26:11,PATCH,Markuz,Error updating player with ID: 2 - SQLSTATE[HY093]: Invalid parameter number
+2024-12-10 17:30:39,POST,Markuz,Invalid payload. Check your JSON structure.
+2024-12-10 17:31:02,POST,Markuz,Invalid payload. Check your JSON structure.
+2024-12-10 17:31:03,POST,Markuz,Invalid payload. Check your JSON structure.
+2024-12-10 17:31:03,POST,Markuz,Invalid payload. Check your JSON structure.
+2024-12-10 17:32:34,POST,Markuz,Created a new team record with members.
+2024-12-10 17:32:56,GET,Markuz,Retrieved team data for team ID: 26
+2024-12-10 17:33:00,DELETE,Markuz,Team with ID 26 marked as deleted.
+2024-12-10 17:33:27,PATCH,Markuz,Attempting to update deletion status of team with ID: 26 to isdeleted = 0
+2024-12-10 17:33:27,PATCH,Markuz,Successfully updated deletion status of team with ID: 26
+2024-12-10 17:35:51,POST,Markuz,Created a new player record.
+2024-12-10 17:36:06,DELETE,Markuz,Player with ID 37 marked as deleted.
+2024-12-10 17:36:20,PATCH,Markuz,Attempting to update player with ID: 37
+2024-12-10 17:36:20,PATCH,Markuz,Error updating player with ID: 37 - SQLSTATE[HY093]: Invalid parameter number
+2024-12-10 17:36:23,PATCH,Markuz,Attempting to update player with ID: 37
+2024-12-10 17:36:23,PATCH,Markuz,Error updating player with ID: 37 - SQLSTATE[HY093]: Invalid parameter number
+2024-12-10 17:36:24,PATCH,Markuz,Attempting to update player with ID: 37
+2024-12-10 17:36:24,PATCH,Markuz,Error updating player with ID: 37 - SQLSTATE[HY093]: Invalid parameter number
+2024-12-10 17:36:24,PATCH,Markuz,Attempting to update player with ID: 37
+2024-12-10 17:36:24,PATCH,Markuz,Error updating player with ID: 37 - SQLSTATE[HY093]: Invalid parameter number
+2024-12-10 17:36:24,PATCH,Markuz,Attempting to update player with ID: 37
+2024-12-10 17:36:24,PATCH,Markuz,Error updating player with ID: 37 - SQLSTATE[HY093]: Invalid parameter number
+2024-12-10 17:36:24,PATCH,Markuz,Attempting to update player with ID: 37
+2024-12-10 17:36:24,PATCH,Markuz,Error updating player with ID: 37 - SQLSTATE[HY093]: Invalid parameter number
+2024-12-10 17:36:24,PATCH,Markuz,Attempting to update player with ID: 37
+2024-12-10 17:36:24,PATCH,Markuz,Error updating player with ID: 37 - SQLSTATE[HY093]: Invalid parameter number
+2024-12-10 17:36:25,PATCH,Markuz,Attempting to update player with ID: 37
+2024-12-10 17:36:25,PATCH,Markuz,Error updating player with ID: 37 - SQLSTATE[HY093]: Invalid parameter number
+2024-12-10 17:39:48,PATCH,Markuz,Attempting to update deletion status of player with ID: 37 to isdeleted = 0
+2024-12-10 17:39:48,PATCH,Markuz,Successfully updated deletion status of player with ID: 37
+2024-12-10 18:26:09,POST,Markuz,Matchmaking round created successfully.
+2024-12-10 19:00:10,POST,Markuz,Matches created for event: Unnamed Event.
+2024-12-10 19:37:07,POST,Markuz,Match with ID 5 not found.
+2024-12-10 19:44:40,POST,Markuz,[{"error":"SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`tma`.`winners`, CONSTRAINT `winners_ibfk_2` FOREIGN KEY (`team_id`) REFERENCES `teams` (`id`))","winner_data":{"id":10,"name":"Team Alpha"}},{"error":"SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`tma`.`winners`, CONSTRAINT `winners_ibfk_2` FOREIGN KEY (`team_id`) REFERENCES `teams` (`id`))","winner_data":{"id":15,"name":"Team Beta"}}]
+2024-12-10 19:44:56,POST,Markuz,[{"error":"SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`tma`.`winners`, CONSTRAINT `winners_ibfk_2` FOREIGN KEY (`team_id`) REFERENCES `teams` (`id`))","winner_data":{"id":10,"name":"Team Alpha"}},{"error":"SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`tma`.`winners`, CONSTRAINT `winners_ibfk_2` FOREIGN KEY (`team_id`) REFERENCES `teams` (`id`))","winner_data":{"id":15,"name":"Team Beta"}}]
+2024-12-10 19:44:57,POST,Markuz,[{"error":"SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`tma`.`winners`, CONSTRAINT `winners_ibfk_2` FOREIGN KEY (`team_id`) REFERENCES `teams` (`id`))","winner_data":{"id":10,"name":"Team Alpha"}},{"error":"SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`tma`.`winners`, CONSTRAINT `winners_ibfk_2` FOREIGN KEY (`team_id`) REFERENCES `teams` (`id`))","winner_data":{"id":15,"name":"Team Beta"}}]
+2024-12-10 19:44:57,POST,Markuz,[{"error":"SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`tma`.`winners`, CONSTRAINT `winners_ibfk_2` FOREIGN KEY (`team_id`) REFERENCES `teams` (`id`))","winner_data":{"id":10,"name":"Team Alpha"}},{"error":"SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`tma`.`winners`, CONSTRAINT `winners_ibfk_2` FOREIGN KEY (`team_id`) REFERENCES `teams` (`id`))","winner_data":{"id":15,"name":"Team Beta"}}]
+2024-12-10 19:44:57,POST,Markuz,[{"error":"SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`tma`.`winners`, CONSTRAINT `winners_ibfk_2` FOREIGN KEY (`team_id`) REFERENCES `teams` (`id`))","winner_data":{"id":10,"name":"Team Alpha"}},{"error":"SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`tma`.`winners`, CONSTRAINT `winners_ibfk_2` FOREIGN KEY (`team_id`) REFERENCES `teams` (`id`))","winner_data":{"id":15,"name":"Team Beta"}}]
+2024-12-10 19:44:57,POST,Markuz,[{"error":"SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`tma`.`winners`, CONSTRAINT `winners_ibfk_2` FOREIGN KEY (`team_id`) REFERENCES `teams` (`id`))","winner_data":{"id":10,"name":"Team Alpha"}},{"error":"SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`tma`.`winners`, CONSTRAINT `winners_ibfk_2` FOREIGN KEY (`team_id`) REFERENCES `teams` (`id`))","winner_data":{"id":15,"name":"Team Beta"}}]
+2024-12-10 19:45:20,POST,Markuz,[{"error":"SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`tma`.`winners`, CONSTRAINT `winners_ibfk_2` FOREIGN KEY (`team_id`) REFERENCES `teams` (`id`))","winner_data":{"id":10,"name":"Team Alpha"}},{"error":"SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`tma`.`winners`, CONSTRAINT `winners_ibfk_2` FOREIGN KEY (`team_id`) REFERENCES `teams` (`id`))","winner_data":{"id":15,"name":"Team Beta"}}]
+2024-12-10 19:45:20,POST,Markuz,[{"error":"SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`tma`.`winners`, CONSTRAINT `winners_ibfk_2` FOREIGN KEY (`team_id`) REFERENCES `teams` (`id`))","winner_data":{"id":10,"name":"Team Alpha"}},{"error":"SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`tma`.`winners`, CONSTRAINT `winners_ibfk_2` FOREIGN KEY (`team_id`) REFERENCES `teams` (`id`))","winner_data":{"id":15,"name":"Team Beta"}}]
+2024-12-10 19:45:20,POST,Markuz,[{"error":"SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`tma`.`winners`, CONSTRAINT `winners_ibfk_2` FOREIGN KEY (`team_id`) REFERENCES `teams` (`id`))","winner_data":{"id":10,"name":"Team Alpha"}},{"error":"SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`tma`.`winners`, CONSTRAINT `winners_ibfk_2` FOREIGN KEY (`team_id`) REFERENCES `teams` (`id`))","winner_data":{"id":15,"name":"Team Beta"}}]
+2024-12-10 19:55:14,POST,Markuz,SQLSTATE[42S22]: Column not found: 1054 Unknown column 'event_id' in 'field list'
+2024-12-10 19:55:16,POST,Markuz,SQLSTATE[42S22]: Column not found: 1054 Unknown column 'event_id' in 'field list'
+2024-12-10 19:55:16,POST,Markuz,SQLSTATE[42S22]: Column not found: 1054 Unknown column 'event_id' in 'field list'
+2024-12-10 19:55:16,POST,Markuz,SQLSTATE[42S22]: Column not found: 1054 Unknown column 'event_id' in 'field list'
+2024-12-10 19:55:16,POST,Markuz,SQLSTATE[42S22]: Column not found: 1054 Unknown column 'event_id' in 'field list'
+2024-12-10 19:55:16,POST,Markuz,SQLSTATE[42S22]: Column not found: 1054 Unknown column 'event_id' in 'field list'
+2024-12-10 19:57:00,POST,Markuz,SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`tma`.`event_winners`, CONSTRAINT `event_winners_ibfk_1` FOREIGN KEY (`match_id`) REFERENCES `matches` (`id`) ON DELETE CASCADE)
+2024-12-10 19:57:50,POST,Markuz,Winners recorded for match ID: 1.
+2024-12-10 19:58:28,POST,Markuz,Winners recorded for match ID: 1.
+2024-12-10 20:02:17,POST,Markuz,Winners recorded for match ID: 1.
+2024-12-10 20:06:18,POST,Markuz,Winners recorded and match ID: 1 deleted.
+2024-12-10 20:08:06,POST,Markuz,Winners recorded and match ID: 2 deleted.
+2024-12-10 20:10:23,POST,Markuz,Matches created for event: Tournament 2024.
+2024-12-10 20:10:24,POST,Markuz,Matches created for event: Tournament 2024.
+2024-12-10 20:10:24,POST,Markuz,Matches created for event: Tournament 2024.
+2024-12-10 20:11:24,POST,Markuz,Winners recorded for match ID: 3.
+2024-12-10 20:13:10,POST,Markuz,Winners recorded and match ID: 3 deleted.
+2024-12-10 20:14:40,POST,Markuz,Winners recorded and match ID: 4 deleted from matches.
+2024-12-10 20:20:49,POST,Markuz,Winners recorded for match ID: 5.
+2024-12-10 20:22:10,POST,Markuz,Winners recorded for match ID: 5.
+2024-12-10 20:22:32,POST,Markuz,Winners recorded for match ID: 5.
+2024-12-10 20:25:47,POST,Markuz,Winners recorded for match ID: 5.
+2024-12-10 20:40:31,POST,Markuz,Matches created for event: Tournament 2024.
+2024-12-10 20:40:31,POST,Markuz,Matches created for event: Tournament 2024.
+2024-12-10 20:40:32,POST,Markuz,Matches created for event: Tournament 2024.
+2024-12-10 20:40:32,POST,Markuz,Matches created for event: Tournament 2024.
+2024-12-10 20:40:32,POST,Markuz,Matches created for event: Tournament 2024.
+2024-12-10 20:40:32,POST,Markuz,Matches created for event: Tournament 2024.
+2024-12-10 20:40:33,POST,Markuz,Matches created for event: Tournament 2024.
+2024-12-10 20:40:33,POST,Markuz,Matches created for event: Tournament 2024.
+2024-12-10 20:40:33,POST,Markuz,Matches created for event: Tournament 2024.
+2024-12-10 20:40:33,POST,Markuz,Matches created for event: Tournament 2024.
+2024-12-10 20:40:33,POST,Markuz,Matches created for event: Tournament 2024.
+2024-12-10 20:40:33,POST,Markuz,Matches created for event: Tournament 2024.
+2024-12-10 20:44:33,DELETE,Markuz,Match with ID 6 deleted successfully.
+2024-12-10 22:08:49,POST,Admin,SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`tma`.`event_winners`, CONSTRAINT `event_winners_ibfk_3` FOREIGN KEY (`winner_player_id`) REFERENCES `players` (`id`) ON DELETE SET NULL)
+2024-12-10 22:09:17,POST,Admin,SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`tma`.`event_winners`, CONSTRAINT `event_winners_ibfk_3` FOREIGN KEY (`winner_player_id`) REFERENCES `players` (`id`) ON DELETE SET NULL)
+2024-12-10 22:11:48,POST,Admin,Winners recorded for match ID: 7.
+2024-12-10 22:11:58,POST,Admin,Winners recorded for match ID: 7.
+2024-12-10 22:13:52,POST,Admin,Winners recorded for match ID: 7.
+2024-12-10 22:15:16,POST,Admin,Winners recorded for match ID: 7.
+2024-12-10 22:15:31,POST,Admin,Winners recorded for match ID: 7.
+2024-12-10 22:16:34,POST,Admin,SQLSTATE[42S22]: Column not found: 1054 Unknown column 'winner_player_ids' in 'field list'
+2024-12-10 22:16:50,POST,Admin,Winners recorded for match ID: 7.
+2024-12-10 22:16:57,POST,Admin,SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`tma`.`event_winners`, CONSTRAINT `event_winners_ibfk_3` FOREIGN KEY (`winner_player_id`) REFERENCES `players` (`id`) ON DELETE SET NULL)
+2024-12-10 22:17:10,POST,Admin,Winners recorded for match ID: 7.
+2024-12-10 22:20:53,POST,Admin,Winners recorded for match ID: 7.
+2024-12-10 22:21:39,POST,Admin,Winners recorded for match ID: 7.
+2024-12-10 22:23:59,POST,Admin,Matchmaking round created successfully.
+2024-12-10 22:26:16,POST,Admin,SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`tma`.`event_winners`, CONSTRAINT `event_winners_ibfk_1` FOREIGN KEY (`match_id`) REFERENCES `matches` (`id`) ON DELETE CASCADE)
+2024-12-10 22:28:03,POST,Admin,Matches created for event: Tournament 2024.
+2024-12-10 22:28:55,POST,Admin,SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`tma`.`event_winners`, CONSTRAINT `event_winners_ibfk_3` FOREIGN KEY (`winner_player_id`) REFERENCES `players` (`id`) ON DELETE SET NULL)
+2024-12-10 22:35:07,POST,Admin,One or more player IDs do not exist.
+2024-12-10 22:35:22,POST,Admin,Winners recorded for match ID: 19.
+2024-12-10 22:36:31,POST,Admin,Matches created for event: Tournament 2024.
+2024-12-10 22:37:34,POST,Admin,Winners recorded for match ID: 22.
+2024-12-10 23:55:57,GET,Admin,Attempting to retrieve logs for date: 
+2024-12-10 23:55:57,GET,Admin,Successfully retrieved logs for date: 

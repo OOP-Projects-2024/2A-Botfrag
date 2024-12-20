@@ -1,0 +1,11 @@
+2024-12-20 20:41:30,GET,Ryuzaki,Error retrieving match teams: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'matches.isdeleted' in 'where clause'
+2024-12-20 21:13:29,GET,Ryuzaki,Retrieved teams data
+2024-12-20 21:13:31,GET,Ryuzaki,Retrieved team data for team ID: 2
+2024-12-20 21:59:43,PATCH,Admin,Error updating match with ID: 23 - SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`tma`.`matches`, CONSTRAINT `matches_ibfk_2` FOREIGN KEY (`team2_id`) REFERENCES `teams` (`id`) ON DELETE CASCADE)
+2024-12-20 22:31:23,PATCH,Admin,Successfully updated match with ID: 23
+2024-12-20 22:33:43,PATCH,Admin,Successfully updated match with ID: 23
+2024-12-20 22:33:50,PATCH,Admin,Successfully updated match with ID: 23
+2024-12-20 22:35:17,PATCH,Admin,Successfully updated match with ID: 23
+2024-12-20 22:42:03,PATCH,Admin,Successfully updated match with ID: 23
+2024-12-20 22:42:25,ARCHIVE,Admin,Match teams with Match ID 23 marked as archived.
+2024-12-20 22:42:32,PATCH,Admin,Successfully updated match with ID: 23

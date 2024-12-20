@@ -1,0 +1,35 @@
+2024-12-17 17:53:25,GET,Admin,Retrieved teams data
+2024-12-17 17:53:33,GET,Admin,Attempting to retrieve logs for date: 
+2024-12-17 17:53:33,GET,Admin,Error retrieving logs for date:  - SplFileObject::__construct(C:/CCS/htdocs/tma2024-12-17.log): Failed to open stream: No such file or directory
+2024-12-17 17:53:51,GET,Admin,Attempting to retrieve logs for date: 
+2024-12-17 17:53:51,GET,Admin,Error retrieving logs for date:  - SplFileObject::__construct(C:/CCS/htdocs/tma/2024-12-17.log): Failed to open stream: No such file or directory
+2024-12-17 17:53:52,GET,Admin,Attempting to retrieve logs for date: 
+2024-12-17 17:53:52,GET,Admin,Error retrieving logs for date:  - SplFileObject::__construct(C:/CCS/htdocs/tma/2024-12-17.log): Failed to open stream: No such file or directory
+2024-12-17 17:53:52,GET,Admin,Attempting to retrieve logs for date: 
+2024-12-17 17:53:52,GET,Admin,Error retrieving logs for date:  - SplFileObject::__construct(C:/CCS/htdocs/tma/2024-12-17.log): Failed to open stream: No such file or directory
+2024-12-17 17:53:52,GET,Admin,Attempting to retrieve logs for date: 
+2024-12-17 17:53:52,GET,Admin,Error retrieving logs for date:  - SplFileObject::__construct(C:/CCS/htdocs/tma/2024-12-17.log): Failed to open stream: No such file or directory
+2024-12-17 17:53:53,GET,Admin,Attempting to retrieve logs for date: 
+2024-12-17 17:53:53,GET,Admin,Error retrieving logs for date:  - SplFileObject::__construct(C:/CCS/htdocs/tma/2024-12-17.log): Failed to open stream: No such file or directory
+2024-12-17 17:53:53,GET,Admin,Attempting to retrieve logs for date: 
+2024-12-17 17:53:53,GET,Admin,Error retrieving logs for date:  - SplFileObject::__construct(C:/CCS/htdocs/tma/2024-12-17.log): Failed to open stream: No such file or directory
+2024-12-17 17:53:53,GET,Admin,Attempting to retrieve logs for date: 
+2024-12-17 17:53:53,GET,Admin,Error retrieving logs for date:  - SplFileObject::__construct(C:/CCS/htdocs/tma/2024-12-17.log): Failed to open stream: No such file or directory
+2024-12-17 17:53:53,GET,Admin,Attempting to retrieve logs for date: 
+2024-12-17 17:53:53,GET,Admin,Error retrieving logs for date:  - SplFileObject::__construct(C:/CCS/htdocs/tma/2024-12-17.log): Failed to open stream: No such file or directory
+2024-12-17 17:53:53,GET,Admin,Attempting to retrieve logs for date: 
+2024-12-17 17:53:53,GET,Admin,Error retrieving logs for date:  - SplFileObject::__construct(C:/CCS/htdocs/tma/2024-12-17.log): Failed to open stream: No such file or directory
+2024-12-17 17:53:53,GET,Admin,Attempting to retrieve logs for date: 
+2024-12-17 17:53:53,GET,Admin,Error retrieving logs for date:  - SplFileObject::__construct(C:/CCS/htdocs/tma/2024-12-17.log): Failed to open stream: No such file or directory
+2024-12-17 17:53:53,GET,Admin,Attempting to retrieve logs for date: 
+2024-12-17 17:53:53,GET,Admin,Error retrieving logs for date:  - SplFileObject::__construct(C:/CCS/htdocs/tma/2024-12-17.log): Failed to open stream: No such file or directory
+2024-12-17 17:53:53,GET,Admin,Attempting to retrieve logs for date: 
+2024-12-17 17:53:53,GET,Admin,Error retrieving logs for date:  - SplFileObject::__construct(C:/CCS/htdocs/tma/2024-12-17.log): Failed to open stream: No such file or directory
+2024-12-17 17:53:54,GET,Admin,Attempting to retrieve logs for date: 
+2024-12-17 17:53:54,GET,Admin,Error retrieving logs for date:  - SplFileObject::__construct(C:/CCS/htdocs/tma/2024-12-17.log): Failed to open stream: No such file or directory
+2024-12-17 17:53:54,GET,Admin,Attempting to retrieve logs for date: 
+2024-12-17 17:53:54,GET,Admin,Error retrieving logs for date:  - SplFileObject::__construct(C:/CCS/htdocs/tma/2024-12-17.log): Failed to open stream: No such file or directory
+2024-12-17 17:54:18,GET,Admin,Attempting to retrieve logs for date: 
+2024-12-17 17:54:18,GET,Admin,Error retrieving logs for date:  - SplFileObject::__construct(C:/CCS/htdocs/tma/logs2024-12-17.log): Failed to open stream: No such file or directory
+2024-12-17 17:54:26,GET,Admin,Attempting to retrieve logs for date: 
+2024-12-17 17:54:26,GET,Admin,Successfully retrieved logs for date: 

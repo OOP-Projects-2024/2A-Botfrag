@@ -1,0 +1,20 @@
+2024-12-08 03:15:55,POST,testthunder5,SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'Teamname' cannot be null
+2024-12-08 03:16:02,POST,testthunder5,SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'Teamname' cannot be null
+2024-12-08 03:17:05,POST,testthunder5,Invalid payload. Check your JSON structure.
+2024-12-08 03:17:20,POST,testthunder5,SQLSTATE[42S22]: Column not found: 1054 Unknown column 'member_id' in 'field list'
+2024-12-08 03:17:59,POST,testthunder5,SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'Teamname' cannot be null
+2024-12-08 03:18:06,POST,testthunder5,SQLSTATE[42S22]: Column not found: 1054 Unknown column 'member_id' in 'field list'
+2024-12-08 03:19:54,POST,testthunder5,Created a new team record with members.
+2024-12-08 03:21:56,POST,testthunder5,Created a new team record with members.
+2024-12-08 03:23:12,POST,testthunder5,Created a new team record with members.
+2024-12-08 03:24:04,POST,testthunder5,Created a new team record with members.
+2024-12-08 03:25:04,POST,testthunder5,Created a new player record.
+2024-12-08 03:37:00,POST,Guest,Made a new player record
+2024-12-08 03:40:28,POST,Guest,Made a new player record
+2024-12-08 03:42:16,POST,Markuz,Made a new player record
+2024-12-08 03:57:49,POST,Markuz,Made a new player record
+2024-12-08 04:03:50,DELETE,Markuz,Player with ID 2 marked as deleted.
+2024-12-08 04:05:47,PATCH,Markuz,Attempting to update player with ID: 2
+2024-12-08 04:05:47,PATCH,Markuz,Successfully updated player with ID: 2
+2024-12-08 04:08:50,GET,Markuz,Attempting to retrieve logs for date: 2024-12-08
+2024-12-08 04:08:50,GET,Markuz,Successfully retrieved logs for date: 2024-12-08
